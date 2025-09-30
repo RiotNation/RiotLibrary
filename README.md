@@ -4,10 +4,10 @@ A decentralized, community-curated archive of essential knowledge—freely acces
 
 ## 🚀 Quick Links
 
-- ⚫ [Anarchism](anarchism.md) - Core principles and theory of anarchist thought
-- 🗳️ [Politics](politics.md) - Political analysis and revolutionary strategies  
+- 🏴 [Anarchism](anarchism.md) - Core principles and theory of anarchist thought
+- 🗳 [Politics](politics.md) - Political analysis and revolutionary strategies  
 - 📚 [Other Texts](other-texts.md) - Additional readings and resources
-- 🇪🇸 [En Español](espanol.md) - Spanish language materials and translations
+- 🤓 [En Español](espanol.md) - Spanish language materials and translations
 - 🔒 [Cybersecurity & Digital Privacy](cybersecurity.md) - Tools and guides for digital safety
 
 ---
