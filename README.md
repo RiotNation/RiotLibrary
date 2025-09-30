@@ -1,5 +1,5 @@
 # Riot Library 📚 
-A decentralized, community-curated archive of essential knowledge—freely accessible, censorship-resistant, and built for collective liberation.
+A decentralized, community-curated archive of essential knowledge—freely accessible, censorship-resistant, and built for collective liberation. <br>
 (We constantly upload new material)
 
 ## 🚀 Quick Links
@@ -12,4 +12,4 @@ A decentralized, community-curated archive of essential knowledge—freely acces
 
 ---
 
-*All texts are freely available for reading, download, and redistribution. This library is maintained by the community—contribute your own works to help us grow.*
+*All texts are freely available for reading, download, and redistribution. This library is maintained by the community. Contribute with your texts to help us grow: info@riotnation.click*
