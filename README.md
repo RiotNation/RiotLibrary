@@ -7,7 +7,7 @@ A decentralized, community-curated archive of essential knowledge—freely acces
 - 🏴 [Anarchism](docs/anarchism.md) - Core principles and theory of anarchist thought
 - 🗳 [Politics](docs/politics.md) - Political analysis and different political views  
 - 🤓 [En Español](docs/espanol.md) - Spanish language materials and translations
-- 🔒 [Cybersecurity & Digital Privacy](docs/cybersecurity.md) - Tools and guides for digital safety
+- 🔒 [Cybersecurity](docs/cybersecurity.md) - Tools and guides for digital safety
 - 📚 [Other Texts](docs/other-texts.md) - Additional readings and resources
 
 ---
